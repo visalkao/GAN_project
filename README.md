@@ -54,6 +54,6 @@ Each model is implemented from scratch and follows standard practices from relev
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/GAN_PROJECT.git
-cd GAN_PROJECT
+git clone https://github.com/yourusername/GAN_project.git
+cd GAN_project
 pip install -r requirements.txt
