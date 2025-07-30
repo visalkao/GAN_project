@@ -13,12 +13,19 @@ Each model is implemented from scratch and follows standard practices from relev
 
 ## 📁 Repository Structure
 ├── data/ # MNIST data (auto-downloaded)
+
 ├── models/ # Generator and Discriminator definitions
+
 ├── sample.ipynb # Vanilla GAN training script
+
 ├── sample_DCGAN.ipynb # DCGAN training script
+
 ├── sample_cGAN.ipynb # Conditional GAN training script
+
 ├── sample_WGAN.ipynb # Wasserstein GAN training script
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Python dependencies
 
 
